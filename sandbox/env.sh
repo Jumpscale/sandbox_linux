@@ -1,7 +1,7 @@
 export PBASE=`pwd`
 
 export PATH=$PBASE/bin
-export PYTHONPATH=$PBASE/lib/python.zip:$PBASE/lib/python:$PBASE/lib/jumpscale:$PBASE/lib/pythonbin:$PBASE/lib/pythonbin/lib-dynload:$PBASE/bin
+export PYTHONPATH=$PBASE/lib/python:$PBASE/lib/jumpscale:$PBASE/lib/pythonbin:$PBASE/lib/pythonbin/lib-dynload:$PBASE/bin
 export PYTHONHOME=$PBASE
 
 export LIBRARY_PATH="$PBASE/bin:$PBASE/lib"

@@ -4,7 +4,7 @@ import os
 import atexit
 import struct
 from collections import namedtuple
-import psutil
+#import psutil
 from .JSBase import JSBase
 
 class Application:
